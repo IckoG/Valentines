@@ -80,7 +80,7 @@ body {
   display: grid;
   place-content: center;
   background-image: url("./images/bgkira2.jpg");
-  background-size: 125px;
+  background-size: 200px;
   overflow: hidden;
 }
 
